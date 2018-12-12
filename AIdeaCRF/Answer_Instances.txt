@@ -1,0 +1,2148 @@
+Chemical	asparagine-glycine-arginine
+Disease	tumor
+Chemical	lysine residues
+Disease	cancer
+Chemical	asparagine-glycine-arginine
+Gene	CD13
+Disease	tumors
+Disease	tumor
+Disease	cancer
+Disease	tumor
+Gene	IFN-γ
+Gene	interferon gamma
+Gene	IFN-γ
+Disease	dry eye
+Gene	IFN-γ
+Chemical	carbachol
+Gene	IFN-γ
+Chemical	carbachol
+Chemical	Carbachol
+Gene	IFN-γ
+Gene	IFN-γ
+Gene	IFN-γ
+Chemical	carbachol
+Gene	IFN-γ
+Disease	dry eye disease
+Gene	IFN-γ
+Disease	dehydration
+Chemical	water
+Disease	dehydration
+Chemical	water
+Disease	eosinophilia
+Gene	IFN-γ
+Gene	TNF-α
+Gene	IL17
+Gene	IL-4
+Gene	IgE
+Gene	Rab10
+Gene	Rab10
+Chemical	sphingolipid-rich
+Gene	Rab10
+Chemical	sphingolipids
+Gene	Rab10
+Gene	APH1235
+Gene	uridine monophosphate kinase
+Chemical	guanine nucleotide
+Gene	Rab10-specific
+Gene	Rab10
+Gene	miR-301a
+Disease	intestinal mucosal inflammation
+Gene	IL-17A
+Gene	TNF-α
+Disease	IBD
+Gene	MicroRNA ( miR ) -301a
+Disease	autoimmune diseases
+Gene	miR-301a
+Disease	IBD
+Gene	miR-301a
+Disease	IBD
+Gene	CD4+
+Gene	pre-miR-301a
+Gene	LV-miR-301a
+Gene	miR-301a
+Gene	LV-anti-miR-301a
+Gene	miR-301a
+Chemical	trinitrobenzene sulphonic acid
+Chemical	TNBS
+Disease	colitis
+Disease	colitis
+Gene	miR-301a
+Disease	IBD
+Gene	tumour necrosis factor-α
+Gene	TNF-α
+Gene	miR-301a
+Disease	IBD
+Gene	CD4+
+Gene	anti-TNF-α
+Chemical	Infliximab
+Gene	LV-miR-301a
+Gene	CD4+
+Disease	IBD
+Gene	TNF-α
+Gene	LV-anti-miR-301a
+Gene	SNIP1
+Gene	miR-301a
+Gene	miR-301a
+Gene	LV-anti-miR-301a
+Gene	SNIP1
+Gene	miR-301a
+Chemical	TNBS
+Disease	colitis
+Gene	interleukin ( IL ) -17A
+Gene	IL-17A
+Gene	TNF-α
+Gene	miR-301a
+Disease	IBD
+Gene	SNIP1
+Gene	miR-301a
+Disease	IBD
+Gene	thymic stromal lymphopoietin
+Disease	coeliac disease
+Gene	thymic stromal lymphopoietin
+Gene	TSLP
+Gene	TSLP
+Disease	Crohn 's disease
+Gene	TSLP
+Disease	coeliac disease
+Disease	CD
+Disease	enteropathy
+Chemical	gluten
+Gene	TSLP
+Gene	receptors-TSLPR
+Gene	interleukin ( IL ) -7Rα-were
+Disease	CD
+Gene	furin
+Disease	CD
+Gene	TSLP
+Gene	interferon ( IFN ) -γ
+Gene	IL-8
+Disease	CD
+Gene	TSLP
+Gene	TSLP
+Gene	TSLPR
+Gene	IL-7Rα
+Disease	CD
+Disease	CD
+Disease	CD
+Disease	CD
+Gene	TSLP
+Disease	CD
+Gene	Furin
+Disease	CD
+Gene	TSLP
+Disease	CD
+Gene	TSLP
+Disease	CD
+Gene	TSLP
+Gene	IFN-γ
+Gene	IL-8
+Disease	CD
+Gene	TSLP
+Disease	CD
+Gene	TSLP
+Disease	CD
+Gene	AID
+Gene	BCL6-driven
+Disease	diffuse large B-cell lymphoma
+Chemical	cytidine
+Chemical	uracil
+Gene	activation -induced cytidine deaminase
+Gene	AID
+Chemical	uracil-guanine
+Gene	uracil DNA glycosylase
+Gene	UNG
+Gene	MSH2
+Gene	AID
+Disease	B-cell lymphomas
+Gene	AID
+Disease	lymphoma
+Gene	UNG
+Gene	MSH2
+Gene	MSH2
+Gene	BCL6-driven
+Disease	diffuse large B-cell lymphoma
+Disease	DLBCL
+Gene	BCL6
+Gene	UNG
+Gene	BCL6-driven
+Disease	DLBCL
+Gene	AID
+Gene	UNG
+Gene	MSH2
+Gene	UNG
+Gene	MSH2
+Gene	UNG
+Gene	MSH2
+Gene	Adiponectin
+Gene	JMJD3-IRF4
+Gene	JMJD3
+Chemical	lipopolysaccharide
+Chemical	LPS
+Gene	JMJD3
+Disease	obesity
+Gene	JMJD3
+Disease	obesity
+Disease	DIO
+Gene	JMJD3
+Disease	obesity
+Gene	Adiponectin
+Gene	APN
+Disease	obesity
+Gene	APN
+Gene	JMJD3
+Gene	JMJD3
+Disease	DIO
+Chemical	LPS
+Chemical	pg.lps
+Gene	APN
+Gene	JMJD3
+Gene	APN
+Gene	APN
+Disease	periodontitis
+Gene	APN
+Gene	APN
+Disease	periodontitis
+Disease	bone loss
+Gene	JMJD3
+Gene	IRF4
+Gene	APN
+Gene	JMJD3
+Disease	Hepatitis B
+Gene	HBx-LINE1
+Disease	hepatic injury
+Gene	microRNA-122
+Disease	Chronic hepatitis B
+Disease	hepatocellular carcinoma
+Disease	HCC
+Disease	HCC
+Disease	HCC
+Gene	HBx-LINE1
+Gene	LINE1
+Gene	X
+Disease	tumor
+Disease	HCC
+Gene	miR-122
+Disease	hepatic injury
+Disease	tumor
+Gene	HBx-LINE1
+Gene	HBx-LINE1
+Gene	miR-122
+Gene	HBx-LINE1
+Gene	miR-122
+Gene	HBx-LINE1-miR-122
+Disease	hepatic injury
+Gene	aspartate transaminase
+Gene	alanine aminotransferase
+Chemical	bilirubin
+Gene	HBx-LINE1
+Disease	HCC
+Gene	miR-122
+Gene	HBx-LINE1
+Gene	miR-122
+Gene	HBx-LINE1
+Gene	miR-122
+Gene	β-catenin
+Gene	E-cadherin
+Gene	HBx-LINE1
+Disease	hepatic injury
+Gene	HBx-LINE1
+Gene	miR-122
+Gene	miR-122
+Gene	HBx-LINE1
+Disease	liver injury
+Chemical	Vitamin D
+Gene	Vitamin D Receptor
+Chemical	Statin
+Disease	Myopathy
+Chemical	25-hydroxyvitamin D
+Chemical	25OHD
+Chemical	statin
+Disease	myopathy
+Gene	vitamin D receptor
+Gene	VDR
+Chemical	statin
+Disease	myopathy
+Chemical	statin
+Chemical	statin
+Chemical	25OHD
+Chemical	statin
+Chemical	25OHD
+Chemical	25OHD
+Disease	myopathy
+Disease	myopathy
+Gene	VDR
+Chemical	25OHD
+Chemical	statin
+Gene	VDR
+Disease	myopathy
+Chemical	vitamin D
+Disease	myopathy
+Disease	Liver Fibrosis
+Gene	PERK
+Gene	HNRNPA1
+Gene	SMAD2
+Disease	liver fibrosis
+Disease	liver fibrosis
+Disease	chronic hepatitis C
+Gene	glucose -regulated protein 78
+Gene	GRP78
+Gene	HSPA5
+Gene	heterogeneous nuclear ribonucleoprotein A1
+Gene	HNRNPA1
+Gene	α-smooth muscle actin
+Gene	glucose -regulated protein 78
+Gene	SMAD2
+Gene	SMAD3
+Gene	SMAD2
+Gene	SMAD2
+Gene	microRNA 18a
+Gene	MIR18A
+Gene	SMAD2
+Gene	SMAD2
+Gene	PKR -like endoplasmic reticulum kinase
+Gene	EIF2AK3
+Gene	PERK
+Gene	HNRNPA1
+Gene	MIR18A
+Chemical	Thr51
+Gene	HNRNPA1
+Disease	liver fibrosis
+Gene	PERK
+Gene	HNRNPA1
+Disease	liver fibrosis
+Gene	SMAD2
+Gene	MIR18A
+Gene	PERK
+Gene	HNRNPA1
+Gene	fusion ( F ) protein
+Chemical	palivizumab
+Gene	RSV F protein
+Chemical	palivizumab
+Chemical	palivizumab
+Disease	paratuberculosis
+Disease	infectious mononucleosis
+Disease	multiple sclerosis
+Disease	Infectious mononucleosis
+Disease	IM
+Disease	multiple sclerosis
+Disease	MS
+Disease	paratuberculosis
+Disease	MS
+Disease	IM
+Disease	MS
+Disease	MS
+Gene	BOLF1
+Gene	EBNA1
+Gene	MAP_4027
+Gene	MAP_0106c
+Gene	IRF5
+Gene	MBP
+Disease	IM
+Gene	EBNA1
+Gene	MAP_0106c
+Disease	IM
+Gene	interferon γ
+Gene	CD4+
+Gene	CD8+
+Gene	interleukin 6
+Gene	tumour necrosis factor α
+Gene	CD14+
+Disease	MS
+Disease	IM
+Gene	hemagglutinin
+Disease	influenza
+Disease	Avian influenza
+Gene	hemagglutinin
+Gene	HA
+Gene	HA
+Disease	influenza
+Chemical	sialic acid
+Chemical	sialic acids
+Gene	HA-221
+Chemical	sialic acids
+Gene	HA
+Disease	influenza
+Disease	Kaposi 's Sarcoma
+Gene	Myeloid Differentiation Primary-Response Gene 88
+Gene	MyD88
+Disease	Kaposi 's sarcoma
+Disease	KS
+Gene	replication and transcription activator
+Gene	RTA
+Gene	Myeloid differentiation primary response gene 88
+Gene	MyD88
+Gene	RTA
+Gene	MyD88
+Gene	MyD88
+Gene	RTA
+Gene	RTA
+Gene	MyD88
+Gene	RTA
+Gene	MyD88
+Gene	MyD88
+Gene	MyD88
+Gene	RTA
+Gene	NF-κB
+Disease	KS
+Gene	MyD88
+Gene	MyD88
+Gene	RTA
+Gene	MyD88
+Gene	MyD88
+Gene	Env
+Gene	HLA-A*24
+Gene	HLA-A*02
+Gene	HLA-B*15
+Gene	Env
+Gene	Gp41-RYL
+Gene	Gp41-RQG
+Gene	gp41
+Gene	Gp120-LLQ
+Gene	gp120
+Gene	Gp120-LLQ
+Gene	Gp41-RQG
+Gene	Gp41-RYL
+Gene	Gp120-LLQ
+Gene	Gp41-RQG
+Gene	IgE
+Chemical	resolvin D1
+Chemical	RvD1
+Chemical	17-hydroxydocosahexaenoic acid
+Chemical	17-HDHA
+Gene	IgE
+Disease	asthma
+Gene	IgE
+Chemical	17-HDHA
+Chemical	RvD1
+Gene	IgE
+Gene	IgE
+Gene	IgE
+Gene	IL-4
+Chemical	17-HDHA
+Chemical	RvD1
+Gene	B-cell lymphoma 6
+Gene	STAT6
+Gene	IgE
+Gene	IgE-driven
+Disease	asthma
+Gene	Rab11a
+Disease	parainfluenza
+Gene	Rab11
+Disease	parainfluenza
+Gene	Rab11
+Gene	Rab11Q70L
+Gene	Rab11S25N
+Chemical	GTP-bound
+Gene	Rab11
+Gene	Rab11Q70L
+Gene	myosin Vb
+Gene	Rab11
+Disease	parainfluenza
+Gene	Leucine-Rich Repeat and Immunoglobulin Domain -Containing Protein 1
+Disease	Spinal Cord Injury
+Gene	Leucine-rich repeat and immunoglobulin domain -containing protein ( LINGO ) -1
+Gene	LINGO-1
+Gene	LINGO-1
+Disease	spinal cord injury
+Gene	LINGO-1-RNA
+Gene	LINGO-1
+Gene	LINGO-1
+Gene	LINGO-1-RNA
+Gene	LINGO-1
+Gene	LINGO-1
+Gene	LINGO-1
+Gene	RhoA
+Gene	LINGO-1
+Gene	LINGO-1-RNA
+Disease	spinal cord injury
+Disease	spinal cord injury
+Disease	Depression
+Disease	depression
+Disease	depression-immunity
+Disease	depression-immunity
+Disease	Depression
+Gene	C -reactive protein
+Gene	CRP
+Gene	CRP
+Chemical	testosterone
+Disease	depression
+Disease	EAE
+Gene	myelin oligodendrocyte glycoprotein
+Gene	Myelin oligodendrocyte glycoprotein
+Gene	MOG
+Disease	multiple sclerosis
+Disease	MS
+Gene	MOG
+Disease	experimental autoimmune encephalomyelitis
+Disease	EAE
+Disease	MS
+Disease	autoimmune diseases
+Disease	EAE
+Gene	myelin basic protein
+Gene	MBP
+Gene	MOG
+Disease	proteinuria
+Disease	EAE
+Disease	EAE
+Gene	MOG
+Disease	EAE
+Disease	late EAE
+Disease	osteoarthritis
+Disease	OA
+Disease	cartilage injury
+Gene	granzyme B
+Chemical	nitric oxide
+Gene	MHC-II
+Gene	TNF-α
+Disease	OA
+Disease	cartilage defects
+Disease	OA
+Gene	interferon-α
+Disease	systemic lupus erythematosus
+Disease	SLE
+Gene	interferon-α
+Gene	IFN-α
+Gene	IFN-α
+Gene	U1 small nuclear ribonucleic proteins
+Disease	SLE-IgG
+Gene	CD28
+Gene	IFN-α
+Gene	interleukin ( IL ) 3
+Gene	granulocyte-macrophage-colony -stimulating factor
+Gene	GM-CSF
+Gene	CD80
+Gene	CD86
+Gene	IFN-α
+Gene	GM-CSF
+Gene	GM-CSF receptor
+Gene	CD80
+Gene	CD86
+Disease	SLE
+Gene	IFN-α
+Disease	SLE
+Gene	GM-CSF
+Gene	IFN-α
+Gene	GM-CSF
+Gene	GM-CSF
+Disease	SLE
+Gene	type I IFN
+Disease	SLE
+Chemical	Tenofovir Alafenamide
+Chemical	Tenofovir alafenamide fumarate
+Chemical	TAF
+Chemical	tenofovir
+Chemical	TFV
+Gene	cathepsin A
+Gene	CatA
+Chemical	TAF
+Gene	CatA
+Chemical	TAF
+Gene	CatA
+Gene	liver carboxylesterase 1
+Gene	Ces1
+Chemical	TAF
+Gene	CatA
+Chemical	TAF
+Gene	CatA
+Chemical	TFV
+Disease	hepatitis C
+Chemical	telaprevir
+Chemical	boceprevir
+Gene	CatA
+Chemical	TAF
+Gene	CD4
+Gene	CatA
+Chemical	TAF
+Chemical	cobicistat
+Gene	CatA
+Chemical	TAF
+Gene	Ces1
+Chemical	TAF
+Chemical	telaprevir
+Chemical	boceprevir
+Chemical	TAF
+Chemical	Miravirsen
+Disease	chronic hepatitis C
+Gene	microRNA-122
+Gene	MicroRNA-122
+Gene	miR-122
+Disease	hepatitis C
+Chemical	miravirsen
+Gene	anti-miR-122
+Disease	chronic hepatitis C
+Chemical	miravirsen
+Disease	chronic hepatitis C
+Chemical	miravirsen
+Chemical	miravirsen
+Gene	miR-122
+Chemical	miravirsen
+Chemical	miravirsen
+Gene	miR-122
+Gene	miR-210
+Gene	miR-532-5p
+Gene	miR-210
+Gene	miR-532-5p
+Gene	miR-122
+Chemical	miravirsen
+Gene	miR-122
+Gene	LexA
+Disease	cholera
+Chemical	tyrosine
+Gene	XerC
+Gene	XerD
+Gene	ssDNA binding protein
+Gene	Ssb
+Gene	lexA
+Gene	Ssb
+Gene	ΔlexA
+Gene	lexA
+Gene	Ssb
+Gene	VC0397
+Gene	LexA
+Gene	Ssbs
+Disease	Cholera
+Disease	acute diarrheal disease
+Disease	cholera
+Chemical	tyrosine
+Gene	XerC
+Gene	XerD
+Gene	ssDNA binding proteins
+Gene	ΔlexA
+Gene	lexA
+Gene	LexA
+Gene	Ssb
+Disease	chronic hepatitis B
+Disease	Chronic hepatitis B
+Chemical	adefovir
+Gene	IL-2
+Gene	granzyme B
+Gene	perforin
+Disease	chronic hepatitis B
+Chemical	adefovir
+Gene	HBsAg
+Gene	HBsAg
+Gene	HBsAg
+Chemical	Diquafosol
+Chemical	calcium
+Gene	ERK
+Chemical	Diquafosol
+Gene	P2Y2 receptor
+Gene	P2Y2R
+Chemical	water
+Disease	dry eye
+Chemical	diquafosol
+Gene	P2Y2R
+Chemical	diquafosol
+Chemical	ophthalmic solution
+Chemical	diquafosol
+Gene	P2Y2R
+Chemical	diquafosol
+Gene	epidermal growth factor receptor
+Gene	extracellular-signal -regulated kinase
+Gene	EGFR
+Gene	ERK
+Chemical	diquafosol
+Chemical	calcium
+Chemical	diquafosol
+Chemical	Fluo-4
+Chemical	diquafosol
+Chemical	calcium
+Chemical	suramin
+Chemical	calcium
+Chemical	diquafosol
+Gene	EGFR
+Gene	ERK
+Gene	Akt
+Chemical	Diquafosol
+Gene	EGFR
+Gene	ERK
+Gene	ERK
+Chemical	suramin
+Chemical	BAPTA / AM
+Chemical	AG1478
+Gene	EGFR
+Chemical	diquafosol
+Chemical	suramin
+Chemical	BAPTA / AM
+Chemical	AG1478
+Chemical	U0126
+Gene	MEK
+Chemical	diquafosol
+Gene	ERK
+Gene	P2Y2R
+Gene	CD4
+Gene	CD8
+Disease	multiple sclerosis
+Disease	MS
+Gene	CD4
+Gene	CD8
+Disease	MS
+Disease	clinically isolated syndrome
+Disease	CIS
+Disease	MS
+Gene	myelin basic protein
+Gene	proteolipid protein
+Chemical	ATP
+Chemical	potassium
+Gene	ATP -dependent inwards rectifying potassium channel 4.1
+Gene	S100 calcium -binding protein B
+Gene	contactin-2
+Gene	neurofascin
+Gene	IFN-γ
+Gene	measles virus fusion protein-specific
+Gene	CD4
+Gene	CD8
+Disease	CIS
+Disease	MS
+Disease	mammary cancers
+Disease	Chagas'disease
+Disease	tumor
+Disease	colon cancer
+Chemical	1 , 2-dimethylhydrazine
+Chemical	DMH
+Disease	mammary cancer
+Chemical	N-nitroso-N-methylurea
+Chemical	NMU
+Disease	tumor
+Gene	CD4
+Gene	CD8
+Disease	tumors
+Disease	Tumor
+Gene	CD11b
+Chemical	NADPH-oxidase
+Disease	cancer
+Disease	breast cancer
+Disease	colon cancer
+Disease	breast cancer
+Disease	tumors
+Disease	tumor
+Chemical	phosphorus
+Chemical	phosphate
+Gene	pstS
+Chemical	adenosine triphosphate
+Chemical	ATP
+Gene	pstS
+Gene	pstS
+Gene	pstS
+Gene	pstS
+Chemical	phosphate
+Gene	nectin-4
+Disease	measles
+Disease	Measles
+Gene	CD46
+Gene	nectin-4
+Gene	nectin-4
+Gene	nectin-4
+Gene	nectin-4
+Gene	nectin-4
+Gene	Nectin-4-blind
+Gene	MV H protein
+Gene	nectin-4
+Gene	anti-nectin-4
+Gene	nectin-4
+Disease	Japanese Encephalitis
+Gene	Nonstructural Protein 1
+Gene	NS1
+Gene	NS1
+Gene	NS1
+Disease	Japanese encephalitis
+Gene	NS1
+Gene	NS1
+Gene	NS1
+Gene	NS1
+Gene	NS1-epitope
+Gene	epitope-NS1
+Gene	NS1
+Disease	GVHD
+Gene	CD64
+Gene	CD86
+Gene	CD28
+Gene	CD4
+Gene	FoxP3
+Gene	CD127
+Chemical	sirolimus
+Chemical	mycophenolate mofetil
+Disease	grade II-IV acute graft-versus-host disease
+Disease	GVHD
+Disease	Chronic GVHD
+Disease	acute GVHD
+Disease	Post-stroke
+Disease	cerebral ischemia
+Chemical	BSc2118
+Disease	brain injury
+Disease	middle cerebral artery occlusion
+Chemical	BSc2118
+Disease	post-stroke
+Disease	brain edema
+Disease	post-acute stroke
+Disease	post-stroke
+Disease	stroke
+Disease	acute leukocytosis
+Disease	brain inflammation
+Gene	HIF-1α
+Disease	asthma
+Disease	asthma
+Disease	asthma
+Disease	rhinitis
+Disease	Asthma
+Gene	ORMDL3
+Gene	GSDMB
+Disease	asthma
+Disease	asthma
+Disease	acute airway obstruction
+Disease	asthma
+Disease	asthma
+Gene	myostatin
+Gene	myostatin
+Gene	myostatin
+Gene	MSTN
+Gene	OlMyostatin
+Gene	OlMSTN
+Gene	myostatin
+Gene	OlMSTN
+Gene	MSTN
+Gene	MSTN
+Gene	MSTN
+Gene	Respiratory Syncytial Virus Attachment Protein
+Gene	attachment ( G ) glycoprotein
+Gene	G protein
+Gene	cathepsin L
+Gene	Cathepsin L
+Gene	cathepsin L
+Gene	G protein
+Gene	G-protein
+Gene	cathepsin L
+Gene	G protein
+Gene	attachment ( G ) glycoprotein
+Gene	G protein
+Gene	G protein
+Gene	RSV G protein
+Gene	heme oxygenase-1
+Disease	neuroblastoma
+Gene	Heme oxygenase ( HO ) -1
+Chemical	heme
+Chemical	biliverdin
+Disease	cancer
+Disease	neuroblastoma
+Disease	NB
+Disease	tumor
+Gene	HO-1
+Disease	NB
+Gene	HO-1
+Disease	cancer
+Disease	NB
+Gene	HO-1
+Disease	NB
+Gene	MYCN
+Gene	HO-1
+Disease	tumor-specific
+Chemical	zinc protoporphyrin
+Gene	HO-1
+Disease	NB
+Disease	tumor
+Gene	HO-1
+Gene	CD4
+Gene	CD8
+Gene	HO-1
+Disease	NB
+Disease	NB
+Gene	HO-1
+Disease	NB
+Chemical	Taxanes
+Chemical	trastuzumab
+Disease	tumor
+Gene	NKG2D
+Chemical	trastuzumab
+Chemical	taxanes
+Gene	HER2
+Disease	breast cancer
+Disease	BC
+Gene	HER2+
+Disease	BC
+Chemical	trastuzumab
+Gene	HER2+
+Disease	BC
+Chemical	docetaxel
+Chemical	trastuzumab
+Gene	NKG2D
+Gene	NKG2D
+Chemical	docetaxel
+Disease	tumor
+Gene	CD11b
+Gene	Ly6G+
+Gene	HER2+
+Disease	BC
+Chemical	taxane
+Gene	NKG2D
+Gene	NKG2D
+Chemical	trastuzumab
+Gene	NKG2D
+Chemical	taxanes
+Disease	tumor
+Disease	tumor
+Chemical	taxanes
+Chemical	trastuzumab
+Gene	MIF
+Disease	Melanoma
+Disease	cancers
+Disease	melanoma
+Gene	macrophage migration inhibitory factor
+Gene	MIF
+Disease	tumor
+Disease	melanoma
+Gene	MIF
+Disease	melanoma
+Disease	melanoma
+Disease	melanoma
+Disease	melanoma
+Gene	MIF
+Gene	MIF
+Chemical	reactive oxygen species
+Gene	MIF
+Chemical	prostaglandin E ( 2 )
+Chemical	PGE ( 2 )
+Gene	MIF
+Gene	MIF
+Disease	melanoma
+Chemical	Artemether
+Disease	Neuroinflammation
+Gene	Nrf2
+Chemical	Artemether
+Chemical	lipid-soluble
+Chemical	artemisinin
+Disease	neuroinflammation
+Chemical	artemether
+Disease	neuroinflammation
+Disease	neuroinflammation
+Chemical	LPS
+Chemical	artemether
+Chemical	nitric oxide
+Chemical	prostaglandin E2
+Chemical	PGE2
+Gene	inducible nitric oxide synthase
+Gene	iNOS
+Gene	cyclooxygenase ( COX ) -2
+Gene	microsomal prostaglandin E synthase-1
+Gene	mPGES-1
+Gene	Beta-site amyloid precursor protein cleaving enzyme 1
+Gene	BACE-1
+Gene	Aβ
+Gene	nuclear factor kappa B
+Gene	NF-κB
+Gene	p38 mitogen -activated protein kinase
+Gene	heme oxygenase-1
+Gene	HO-1
+Gene	NQO1
+Gene	nuclear factor-erythroid 2 -related factor 2
+Gene	Nrf2
+Gene	NF-κB
+Chemical	artemether
+Disease	neuroinflammation
+Gene	Nrf2
+Chemical	artemether
+Gene	Nrf2
+Chemical	Artemether
+Gene	iNOS
+Chemical	PGE2
+Gene	COX-2
+Gene	mPGES-1
+Gene	tumour necrosis factor-alpha
+Gene	TNFα
+Gene	interleukin ( IL ) -6
+Gene	Aβ
+Gene	BACE-1
+Chemical	LPS
+Chemical	artemether
+Gene	NF-κB
+Gene	p38 MAPK
+Chemical	Artemether
+Gene	HO-1
+Gene	NQO1
+Chemical	GSH
+Gene	Nrf2
+Gene	Nrf2
+Gene	Nrf2
+Chemical	artemether
+Chemical	artemether
+Gene	Nrf2
+Gene	Nrf2
+Chemical	artemether
+Disease	neurodegenerative disorders
+Chemical	Rh123
+Gene	CDH1
+Chemical	Rh123
+Disease	hepatitis E
+Disease	Hepatitis E
+Disease	acute hepatitis
+Disease	hepatitis E
+Gene	interferon-α
+Gene	IFN-α
+Gene	IFN-α
+Disease	chronic hepatitis C
+Gene	IFN-α
+Gene	IFN-α
+Gene	JAK1
+Gene	STAT1
+Gene	JAK1
+Gene	STAT1
+Gene	interferon regulatory factor 9
+Gene	IRF9
+Gene	cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	ctss
+Gene	ctssa
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Gene	Cathepsin S
+Disease	chronic immune thrombocytopenia
+Disease	ITP
+Disease	immune thrombocytopenia
+Disease	ITP
+Disease	ITP
+Disease	chronic ITP
+Disease	tumour-suppressor
+Gene	BCL2
+Gene	breast cancer type 1 susceptibility protein
+Gene	BRCA1
+Gene	Fanconi anaemia complementation group C
+Gene	FANCC
+Gene	vascular endothelial growth factor A
+Gene	VEGFA
+Disease	ITP
+Gene	anti-PCNA
+Gene	anti-SmD
+Gene	anti-Ro / SSA60
+Gene	anti-Ro / SSA52
+Gene	anti-La / SSB
+Disease	ITP
+Disease	malignancies
+Disease	autoimmune diseases
+Gene	RUNX1mRNA
+Gene	RUNX1
+Disease	ITP
+Gene	RUNX1
+Disease	ITP
+Gene	Apelin
+Gene	Apelin
+Gene	APJ
+Gene	apelin
+Gene	thrombin-
+Gene	apelin
+Gene	thrombin
+Gene	apelin
+Gene	APJ
+Gene	Apelin
+Gene	thrombin
+Chemical	ADP
+Chemical	thromboxane A2
+Gene	apelin
+Disease	thrombosis
+Gene	apelin
+Gene	APJ
+Gene	indoleamine 2 , 3-dioxygenase
+Chemical	temozolomide
+Disease	glioma
+Gene	Indoleamine 2 , 3-dioxygenase
+Gene	IDO
+Chemical	tryptophan
+Chemical	Trp
+Disease	tumor
+Chemical	Trp
+Chemical	kynurenine
+Gene	IDO
+Disease	cancer
+Gene	IDO
+Disease	malignant cancer
+Gene	IDO
+Disease	glioblastoma
+Disease	glioblastoma
+Gene	IDO
+Disease	glioma
+Gene	IDO
+Gene	IDO
+Chemical	temozolomide
+Chemical	TMZ
+Disease	glioma
+Disease	glioma
+Disease	glioma
+Disease	glioma
+Gene	IDO
+Gene	IDO
+Gene	IDO
+Chemical	1-methyl-l-tryptophan
+Chemical	1-MT
+Disease	Tumor
+Chemical	1-MT
+Disease	tumor
+Chemical	1-MT
+Chemical	TMZ
+Gene	IDO
+Gene	IDO
+Disease	tumor
+Disease	glioma
+Gene	IDO
+Chemical	TMZ
+Disease	glioma
+Disease	Influenza
+Chemical	GalNAc
+Gene	GALNT3
+Disease	Influenza
+Gene	miR-17-3p
+Gene	miR-221
+Gene	GalNAc transferase 3
+Gene	GALNT3
+Gene	GALNT3
+Gene	GALNT3
+Gene	GALNT3
+Gene	GALNT3
+Gene	galnt3-knockout
+Gene	galnt3-knockout
+Chemical	UDP-GalNAc
+Gene	GALNT3
+Gene	GALNT3
+Gene	GALNT3
+Disease	anti-influenza
+Disease	alcoholic liver disease
+Disease	liver injury
+Disease	alcoholic liver disease
+Disease	ALD
+Disease	alcoholic hepatitis
+Disease	AH
+Disease	AH
+Chemical	alcohol
+Disease	ALD
+Disease	severe AH
+Disease	sAH
+Disease	severe liver inflammation
+Disease	liver necrosis
+Disease	AH
+Gene	CD45+
+Gene	CD4
+Disease	sAH
+Disease	sAH
+Chemical	Ursodeoxycholic acid
+Disease	sAH
+Chemical	alcohol
+Disease	liver lesions
+Disease	ALD
+Disease	ALD
+Gene	Methionine Sulfoxide Reductase B3
+Disease	Sensorineural Hearing Loss
+Gene	Methionine sulfoxide reductase B3
+Gene	MsrB3
+Chemical	methionine-R-sulfoxide
+Gene	MsrB3
+Disease	hearing loss
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Gene	MsrB3
+Disease	sensorineural hearing loss
+Gene	MsrB3
+Disease	hepatitis B
+Chemical	hyaluronic
+Chemical	acid-carbon nanotube
+Gene	hepatitis B core protein
+Gene	anti-HBc
+Gene	Anti-HBc
+Disease	hepatitis B
+Chemical	carbon
+Chemical	carbon nanotubes
+Chemical	hyaluronic acid
+Gene	anti-HBc
+Gene	anti-HBc
+Gene	anti-HBc
+Chemical	hyaluronic acid
+Chemical	carbon nanotube
+Gene	HBc
+Disease	bronchitis
+Disease	bronchitis
+Gene	toll like receptor 3
+Gene	TLR3
+Gene	melanoma differentiation associated protein 5
+Gene	MDA5
+Gene	interferon beta
+Gene	IFN-β
+Gene	TLR3
+Gene	MDA5
+Gene	IFN-β
+Disease	influenza
+Disease	influenza
+Gene	IFN-γ
+Gene	granzyme B
+Gene	IFN-γ
+Gene	granzyme B
+Gene	IFN-γ
+Chemical	alum
+Gene	IFN-γ
+Gene	IFN-γ
+Disease	influenza
+Disease	influenza
+Chemical	heparin
+Gene	anti-platelet factor 4
+Chemical	heparin
+Gene	platelet factor 4
+Gene	PF4
+Chemical	heparin
+Chemical	heparin
+Disease	thrombocytopenia
+Disease	HIT
+Chemical	fondaparinux
+Disease	HIT
+Chemical	heparin
+Chemical	UFH
+Chemical	low-molecular-weight heparin
+Chemical	LMWH
+Chemical	UFH
+Chemical	LMWH
+Chemical	fondaparinux
+Gene	anti-PF4
+Chemical	heparin
+Chemical	UFH
+Chemical	LMWH
+Gene	anti-PF4
+Chemical	heparin
+Chemical	heparin
+Chemical	estrogen
+Disease	acute spinal cord injury
+Disease	Spinal cord injury
+Disease	SCI
+Disease	neurological deficits
+Disease	paralysis
+Chemical	methylprednisolone
+Disease	SCI
+Chemical	estrogen
+Disease	SCI
+Disease	Acute SCI
+Chemical	estrogen
+Disease	post-SCI
+Gene	caspase-3
+Disease	SCI
+Disease	SCI
+Gene	caspase-3
+Gene	Bax
+Gene	Bcl-2
+Chemical	Estrogen
+Disease	acute SCI
+Chemical	Estrogen
+Chemical	estrogen
+Disease	acute SCI
+Chemical	estrogen
+Disease	acute spinal cord injury
+Disease	SCI
+Chemical	Estrogen
+Disease	SCI
+Disease	chronic SCI
+Gene	Bub1bH
+Gene	Ercc1-
+Gene	Bub1b
+Gene	Ercc1
+Gene	Bub1b
+Gene	Ercc1
+Gene	Bub1b
+Disease	tumor
+Disease	tumor
+Chemical	uronic acid
+Chemical	arabinose
+Chemical	mannose
+Chemical	galactose
+Chemical	xylose
+Chemical	glucuronic acid
+Disease	tumor
+Disease	tumor
+Gene	albumin
+Gene	TNF-α
+Gene	IL-2
+Gene	GSH-Px
+Gene	CAT
+Gene	SOD
+Gene	VEGF
+Chemical	MDA
+Disease	tumor
+Disease	tumor
+Gene	Cystic Fibrosis Transmembrane Conductance Regulator
+Disease	Cystic fibrosis
+Disease	CF
+Disease	genetic disease
+Gene	cystic fibrosis transmembrane conductance regulator
+Gene	CFTR
+Disease	lung inflammation
+Disease	CF
+Gene	CFTR
+Disease	CF
+Gene	β2 integrins
+Disease	CF
+Gene	β2 integrins
+Disease	CF
+Gene	CFTR
+Chemical	VRT325
+Chemical	VX809
+Gene	CFTR
+Chemical	CFTR ( inh ) -172
+Disease	lung inflammation
+Disease	CF
+Disease	CF
+Gene	RhoA
+Gene	CDC42
+Gene	CFTR
+Disease	CF
+Disease	leukocyte adhesion deficiency disease
+Disease	CF
+Chemical	triterpene
+Chemical	glycoside
+Chemical	frondoside A
+Disease	prostate cancer
+Disease	castration -resistant prostate cancer
+Disease	CRPC
+Chemical	triterpene
+Chemical	glycoside
+Chemical	frondoside A
+Chemical	FrA
+Disease	CRPC
+Chemical	FrA
+Disease	prostate cancer
+Chemical	enzalutamide
+Chemical	abiraterone
+Gene	androgen receptor
+Gene	AR-V7
+Chemical	FrA
+Gene	Bax
+Gene	Bad
+Gene	PTEN
+Gene	PARP
+Gene	caspase-3
+Gene	survivin
+Gene	Bcl-2
+Disease	tumor
+Gene	keratin 81
+Gene	CrkII
+Gene	IL-1β
+Gene	cathepsin B
+Chemical	FrA
+Chemical	FrA
+Disease	tumor
+Disease	tumor
+Chemical	FrA
+Chemical	FrA
+Disease	mCRPC
+Disease	tumor
+Disease	tumor
+Gene	elastin
+Chemical	cysteine residues
+Chemical	chlorin-e6
+Chemical	Ce6
+Chemical	cysteine
+Chemical	disulfide
+Chemical	singlet oxygen
+Disease	tumor
+Disease	tumor
+Disease	tumor
+Chemical	Ce6
+Chemical	reactive oxygen species
+Chemical	ROS
+Chemical	oxygen
+Chemical	ROS
+Chemical	disulfide
+Chemical	cysteine
+Chemical	thiols
+Disease	tumor
+Chemical	iodine-125
+Disease	tumor
+Chemical	Ce6
+Disease	anti-cancer
+Chemical	gold nanoparticles
+Disease	Leptospirosis
+Disease	Parkinson 's Disease
+Gene	rAAV2-Neurturin
+Gene	-neurturin
+Gene	NRTN
+Disease	Parkinson 's disease
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	NRTN
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	rAAV2-NRTN
+Gene	neurturin
+Gene	NKp46
+Disease	Hepatitis C
+Gene	NKp46
+Disease	hepatitis C
+Gene	NKp46
+Gene	CD56
+Gene	CD56
+Gene	NKp46
+Gene	NKp30
+Gene	NKG2D
+Gene	NKp46
+Gene	NKp46
+Gene	NKp46
+Gene	NKp46
+Chemical	MCS-18
+Disease	atherosclerosis
+Gene	ApoE
+Disease	Atherosclerosis
+Chemical	MCS-18
+Disease	atherosclerosis
+Disease	atherosclerosis
+Gene	ApoE
+Disease	atherosclerosis
+Chemical	MCS-18
+Chemical	MCS-18
+Chemical	lipid
+Gene	ICAM-1
+Chemical	MCS-18
+Chemical	MCS-18
+Chemical	MCS-18
+Chemical	MCS-18
+Gene	CD209
+Gene	CCR7
+Chemical	MCS-18
+Gene	ICAM-1
+Gene	NF-κB-p65
+Gene	ICAM-1
+Chemical	MCS-18
+Disease	atherosclerosis
+Gene	ICAM-1
+Gene	myeloperoxidase
+Disease	alcoholic cirrhosis
+Gene	Myeloperoxidase
+Chemical	hydrogen peroxide
+Chemical	superoxide
+Chemical	nicotinamide adenine dinucleotide phosphate
+Chemical	NADPH
+Disease	alcoholic cirrhosis
+Gene	formylpeptide receptor
+Gene	fPR
+Chemical	superoxide
+Gene	myeloperoxidase
+Gene	fPR
+Chemical	formyl-met-leu-phe
+Chemical	fMLP
+Gene	Myeloperoxidase
+Gene	myeloperoxidase
+Gene	myeloperoxidase
+Chemical	fMLP
+Gene	myeloperoxidase
+Gene	myeloperoxidase
+Chemical	fMLP
+Gene	AKT
+Gene	ERK1
+Gene	p38-MAP-Kinases
+Gene	fPR
+Gene	AKT
+Gene	p38-MAPK
+Gene	ERK1
+Chemical	fMLP
+Gene	myeloperoxidase
+Gene	TLR7
+Chemical	CL097
+Chemical	fMLP
+Gene	AKT
+Gene	p38-MAPK
+Gene	myeloperoxidase
+Disease	alcoholic cirrhosis
+Gene	AKT
+Gene	p38-MAPK
+Gene	myeloperoxidase
+Gene	TLR7
+Chemical	superoxide
+Chemical	Obeticholic acid
+Disease	intestinal inflammation
+Chemical	Bile acid
+Gene	farnesoid X receptor
+Gene	farnesoid X receptor
+Chemical	obeticholic acid
+Chemical	obeticholic acid
+Gene	albumin
+Disease	intestinal inflammation
+Chemical	Obeticholic acid
+Gene	farnesoid X receptor
+Gene	angiogenin-1
+Gene	alpha-5-defensin
+Gene	zonulin-1
+Gene	occludin
+Gene	albumin
+Disease	liver fibrosis
+Gene	Toll -like receptor 4
+Chemical	obeticholic acid
+Gene	Hepatitis B surface antigen
+Disease	hepatitis B
+Disease	hepatitis B
+Gene	hepatitis B surface antigen
+Gene	HBsAg
+Gene	HBsAg
+Gene	HBsAg
+Gene	HBsAg
+Gene	HBsAg
+Gene	HBsAg
+Gene	anti-HBs
+Gene	HBsAg
+Gene	hepatitis B surface antigen
+Gene	anti-HBs
+Gene	hepatitis B core antigen
+Gene	anti-HBc
+Gene	HBeAg
+Gene	hepatitis B e antigen
+Gene	anti-HBe
+Gene	anti-HBs
+Gene	anti-HBc
+Gene	anti-HBe
+Gene	anti-HBe
+Gene	anti-HBe
+Gene	HBsAg
+Gene	Myb
+Disease	Airway Disease
+Disease	chronic obstructive pulmonary disease
+Disease	asthma
+Disease	cystic fibrosis
+Disease	adenosine deaminase deficiency
+Disease	ADA ( - / - )
+Disease	chronic airway diseases
+Gene	Myb
+Disease	chronic airway diseases
+Gene	granulocyte-macrophage colony -stimulating factor
+Disease	acute lung injury
+Disease	chronic lung disease
+Disease	ADA ( - / - )
+Disease	acute lung injury
+Disease	teratomas
+Disease	airway disease
+Disease	Anthrax
+Chemical	anthrax toxins
+Disease	toxaemia
+Disease	bacteremia
+Disease	hepatitis
+Disease	avian influenza
+Disease	severe liver impairment
+Disease	Avian influenza
+Disease	Liver impairment
+Disease	severe liver injury
+Disease	hepatitis
+Disease	HH
+Disease	acute severe liver injury
+Disease	HH
+Disease	HH
+Disease	HH
+Disease	renal failure
+Disease	chronic heart disease
+Disease	severe liver impairment
+Gene	alanine aminotransferase
+Gene	ALT
+Gene	aspartate aminotransferase
+Gene	AST
+Disease	hepatitis
+Disease	HH
+Disease	chronic heart disease
+Disease	HH
+Gene	ALT
+Gene	IL-17A
+Gene	Blimp-1
+Disease	Influenza
+Disease	influenza
+Disease	influenza
+Gene	IL-17A
+Gene	Blimp-1
+Gene	NF-κB
+Gene	IL-17A
+Gene	Il17a-
+Gene	IL-17A
+Disease	influenza
+Chemical	poly ( D , L-lactide-co-glycolide )
+Gene	vascular endothelial growth factor
+Gene	CD31
+Gene	von Willebrand factor
+Chemical	dexamethasone
+Gene	Ets1
+Disease	immune thrombocytopenia
+Disease	immune thrombocytopenia
+Disease	ITP
+Disease	ITP
+Chemical	dexamethasone
+Chemical	HD-DXM
+Disease	ITP
+Chemical	DXM
+Gene	interleukin 10
+Gene	transforming growth factor β
+Chemical	DXM
+Chemical	DXM
+Gene	CD4
+Gene	Ets1
+Chemical	DXM
+Gene	Ets-1
+Chemical	DXM
+Gene	CD61
+Gene	CD61
+Disease	SCID
+Disease	severe ITP
+Chemical	DXM
+Disease	SCID
+Disease	ITP
+Chemical	HD-DXM
+Chemical	glucocorticoid
+Gene	Ets1
+Disease	Skin Cancer
+Gene	KIR
+Gene	killer-cell immunoglobulin -like receptors
+Gene	KIR
+Gene	KIR
+Gene	KIR
+Disease	skin cancers
+Disease	basal cell carcinoma
+Disease	BCC
+Disease	squamous cell carcinomas
+Disease	SCC
+Gene	KIR
+Gene	HLA-B
+Gene	HLA-C
+Gene	KIR
+Disease	BCC tumors
+Gene	HLA-C
+Gene	KIR2DS3
+Disease	BCC
+Gene	HLA-B
+Gene	KIR
+Gene	KIR3DS1
+Gene	KIR2DS1
+Gene	HLA-B
+Gene	KIR
+Gene	KIR2DS5
+Disease	SCC
+Gene	p53
+Gene	KIR
+Gene	p53
+Disease	BCC tumors
+Gene	KIR
+Gene	p53
+Gene	KIR
+Disease	BCC
+Disease	SCC
+Gene	KIR
+Gene	p53
+Disease	BCC tumors
+Gene	Lysyl oxidase like-4
+Disease	head and neck squamous cell carcinoma
+Gene	lysyl oxidase -like 4
+Gene	LOXL4
+Disease	head and neck squamous cell carcinoma
+Disease	HNSCC
+Gene	LOXL4
+Disease	HNSCC
+Gene	LOXL4
+Disease	SCID
+Gene	LOXL4-mAb
+Disease	tumor
+Disease	tumor
+Disease	tumor
+Disease	HNSCC
+Gene	LOXL4-mAb
+Disease	tumor
+Disease	tumor
+Gene	LOXL4-mAb
+Disease	HNSCC
+Disease	tumor
+Gene	LOXL4-mAb
+Gene	LOXL4-mAb
+Disease	HNSCC
+Disease	tumor
+Gene	LOXL4
+Disease	Periodontitis
+Disease	periodontal disease
+Gene	FOXO1
+Disease	Periodontitis
+Disease	periodontal disease
+Gene	TNF
+Gene	Sialoadhesin
+Disease	neuroinflammation
+Disease	CLN disease
+Disease	CLN diseases
+Disease	lysosomal storage diseases
+Disease	neurodegeneration
+Gene	CD8+
+Gene	Ppt1
+Disease	CLN1 disease
+Gene	sialoadhesin
+Gene	Sn
+Gene	Ppt1
+Gene	Cln3
+Disease	CLN3 disease
+Gene	Sn
+Gene	Sn+
+Gene	SMI32+
+Gene	CD8+
+Gene	Sn
+Gene	Ppt1
+Gene	Sn
+Gene	Cln3
+Gene	Sn
+Gene	Ppt1
+Gene	Sn
+Gene	CD8
+Gene	CD122+
+Gene	Ppt1
+Gene	Sn
+Gene	CD8
+Gene	CD122-
+Gene	Sn
+Disease	CLN disease
+Gene	CD8
+Gene	CD122+
+Disease	CLN
+Gene	GM-CSF
+Disease	acute intestinal inflammation
+Disease	colitis
+Gene	granulocyte macrophage-colony stimulating factor
+Gene	GM-CSF
+Disease	colitis
+Gene	GM-CSF
+Gene	IL-23R
+Gene	GM-CSF
+Chemical	alpha-Gal
+Chemical	LacNAc
+Gene	p53
+Disease	Hepatitis B
+Disease	hepatocellular carcinoma
+Gene	p53
+Gene	p53
+Gene	PTD-p53
+Gene	PTD-p53
+Gene	HBsAg
+Gene	HBeAg
+Gene	HBcAg
+Gene	CAMKK2
+Disease	neuropathy
+Disease	neuropathy
+Disease	HIV-SN
+Disease	HIV-SN
+Gene	P2X7R
+Gene	P2X4R
+Gene	CAMKK2
+Disease	HIV-SN
+Disease	Peripheral Neuropathy
+Disease	SN
+Gene	P2X7R
+Gene	P2X4R
+Gene	CAMKK2
+Chemical	stavudine
+Disease	HIV-SN
+Gene	CAMKK2
+Disease	SN
+Gene	CAMKK2
+Disease	HIV-SN
+Disease	SN
+Gene	HLA-B
+Gene	Nef
+Gene	Nef
+Gene	HLA-A
+Gene	HLA-B
+Gene	CD8
+Gene	Nef
+Gene	Nef
+Gene	Nef
+Gene	HLA-A
+Gene	HLA-B
+Gene	Nef
+Gene	HLA-A
+Gene	HLA-B
+Gene	HLA-C
+Gene	HLA-B
+Gene	Nef
+Gene	HLA-A
+Gene	Nef
+Gene	HLA-C
+Gene	Nef
+Gene	HLA-A
+Gene	HLA-B
+Gene	Gag-specific
+Gene	Nef
+Gene	Nef-202
+Gene	HLA-A
+Gene	HLA-B
+Gene	Nef
+Gene	Nef-202
+Chemical	Cys-Lys-Val
+Gene	HLA-A
+Gene	HLA-B
+Gene	Nef
+Gene	nef
+Gene	Nef
+Gene	HLA-A
+Gene	HLA-B
+Gene	Nef
+Gene	HLA-A
+Gene	HLA-B
+Gene	Nef
+Gene	Nef
+Gene	CD28
+Gene	IL-2
+Chemical	rapamycin
+Gene	CD4
+Gene	CD25
+Gene	FOXP3
+Chemical	sulfur dioxide
+Chemical	carbon
+Chemical	nitrogen
+Chemical	sulfur dioxide
+Chemical	iron
+Chemical	iron-oxidizer
+Gene	nsp1β
+Disease	Porcine Reproductive and Respiratory Syndrome
+Disease	Porcine reproductive and respiratory syndrome
+Gene	nonstructural protein 1β
+Gene	nsp1β
+Gene	nsp1β
+Gene	interferon beta
+Gene	IFN-β
+Gene	nsp1β
+Gene	nsp1β
+Gene	IFN-α
+Gene	nsp1β
+Gene	IFN-α
+Gene	IFN-γ
+Gene	nsp1β
+Gene	nsp1β
+Gene	nsp1β
+Gene	CpG-STAT3
+Disease	acute myeloid leukemia
+Gene	signal transducer and activator of transcription 3
+Gene	STAT3
+Disease	acute myeloid leukemia
+Disease	AML
+Disease	tumor
+Gene	STAT3-specific
+Gene	STAT3
+Gene	STAT3dODN
+Gene	STAT3dODN
+Gene	Toll -like receptor 9
+Gene	TLR9
+Chemical	cytosine
+Chemical	guanine
+Gene	CpG-STAT3dODN
+Gene	TLR9
+Disease	AML
+Disease	leukemia
+Gene	CpG-STAT3dODNs
+Gene	STAT3
+Gene	STAT3
+Disease	patients'AML
+Gene	CpG-STAT3dODNs
+Disease	leukemia
+Gene	CpG-STAT3dODN
+Disease	AML
+Disease	leukemia-specific
+Gene	STAT3
+Gene	TLR9
+Gene	CpG-STAT3dODN
+Gene	reducedCbfb
+Gene	MYH11
+Disease	MplAML
+Disease	leukemia
+Gene	CD8
+Gene	CD4
+Gene	Janus kinase 2
+Gene	STAT3
+Gene	CpG-STAT3dODN
+Gene	CpG-STAT3dODN
+Disease	AML
+Disease	hematologic malignancies
+Disease	dengue
+Disease	chikungunya
+Gene	ND4
+Gene	TREM2
+Gene	tau
+Disease	Alzheimer 's disease
+Disease	AD
+Gene	triggering receptor expressed on myeloid cells 2
+Gene	TREM2
+Gene	TREM2
+Gene	tau
+Disease	AD
+Gene	TREM2
+Gene	tau
+Gene	TREM2
+Gene	tau
+Gene	TREM2
+Disease	cognitive deficits
+Gene	tau
+Gene	TREM2
+Gene	tau
+Disease	neurodegenerative diseases
+Gene	TREM2
+Gene	TREM2
+Disease	cognitive impairments
+Gene	tau
+Disease	neuroinflammation
+Gene	tau
+Gene	Tnf
+Gene	Il1b
+Gene	Il6
+Gene	tau
+Gene	glycogen synthase kinase 3β
+Gene	cyclin -dependent kinase 5
+Gene	TREM2
+Disease	neuroinflammation
+Gene	TREM2
+Gene	Arg1
+Gene	Retnla
+Gene	Il4
+Gene	Il10
+Gene	TREM2
+Disease	AD
+Gene	tau
+Disease	neurodegenerative diseases
+Disease	Paralysis
+Disease	sepsis
+Disease	sepsis
+Disease	sepsis
+Chemical	adenosine
+Gene	TLR9
+Chemical	adenosine
+Gene	TLR9
+Gene	TLR9
+Gene	programmed cell death ligand 1
+Gene	indoleamine 2 , 3-dioxygenase
+Chemical	fullerene C60
+Disease	atopic dermatitis
+Chemical	fullerene C60
+Chemical	ROS
+Chemical	C60
+Chemical	nC60
+Disease	atopic dermatitis
+Chemical	nC60
+Chemical	C60
+Chemical	fullerene
+Disease	skin inflammation
+Chemical	nC60
+Gene	IgE
+Chemical	nC60
+Gene	Foxp3
+Gene	filaggrin
+Chemical	nC60
+Chemical	ADP-ribosylation
+Disease	hepatitis C
+Gene	GBF1
+Disease	hepatitis C
+Gene	GBF1
+Chemical	lipid
+Gene	GBF1
+Gene	Arf1
+Gene	Arf1
+Gene	Arf3
+Gene	Arf4
+Gene	Arf5
+Gene	GBF1
+Gene	Arf4
+Gene	Arf5
+Gene	Arf4
+Gene	Arf5
+Chemical	lipid
+Chemical	lipid
+Gene	GBF1
+Chemical	brefeldin A
+Gene	Arf1
+Gene	Arf4
+Gene	GBF1
+Gene	GBF1
+Gene	COX2
+Gene	IFNγ
+Gene	TNFα
+Disease	Tumor
+Gene	IFNγ
+Gene	TNFα
+Gene	cyclooxygenase 2
+Gene	COX2
+Chemical	prostaglandin ( PG ) E2
+Disease	tumor
+Disease	ovarian cancer
+Gene	indoleamine 2 , 3-dioxygenase
+Gene	IDO
+Gene	inducible nitric oxide synthase
+Gene	iNOS
+Gene	NOS2
+Gene	IL10
+Gene	COX2
+Gene	IFNγ
+Gene	TNFα
+Gene	COX2
+Disease	ovarian cancer
+Gene	COX2
+Gene	IFNγ
+Gene	TNFα
+Chemical	COX2-PGE2
+Disease	cancer
+Gene	miR-23a
+Gene	miR-146a
+Gene	miR-301a
+Disease	Vogt-Koyanagi-Harada syndrome
+Disease	Behcet 's disease
+Disease	Behcet 's disease
+Disease	BD
+Disease	Vogt-Koyanagi-Harada ( VKH ) syndrome
+Disease	BD
+Disease	VKH syndrome
+Gene	miR-23a
+Gene	miR-23a
+Gene	miR-146a
+Gene	miR-301a
+Disease	VKH syndrome
+Disease	BD
+Gene	miR-23a
+Gene	miR-23a
+Gene	interleukin-6
+Gene	IL-6
+Gene	IL-8
+Gene	monocyte chemoattractant protein-1
+Gene	MCP-1
+Gene	miR-23a
+Gene	IL-6
+Gene	IL-8
+Gene	MCP-1
+Gene	miR-146a
+Gene	miR-23a
+Gene	miR-301a
+Disease	VKH syndrome
+Disease	BD
+Gene	miR-23a
+Disease	VKH syndrome
+Gene	IL-6
+Disease	bronchitis
+Gene	mannose -binding lectin
+Disease	bronchitis
+Disease	bronchitis
+Gene	mannose -binding lectin
+Gene	MBL
+Gene	MBL
+Chemical	sodium nitrate
+Chemical	zinc sulphate
+Disease	dementias
+Disease	dementias
+Disease	cognitive function decline
+Disease	cognitive decline
+Disease	dementia
+Disease	dementia
+Disease	PSD
+Disease	vascular dementia
+Disease	dementia
+Disease	Alzheimer 's disease
+Disease	AD
+Gene	C -reactive protein
+Gene	CRP
+Gene	serum amyloid A
+Gene	interferon-gamma
+Gene	tumor necrosis factor
+Gene	CRP
+Gene	IL-1 beta
+Gene	IL-6
+Gene	IL-7
+Gene	IL-8
+Gene	IL-16
+Gene	interferon-inducible protein-10
+Gene	serum amyloid A
+Gene	IL-1 alpha
+Disease	dementia
+Gene	IL-6
+Gene	IL-8
+Disease	dementia
+Gene	IL-6
+Gene	IL-8
+Disease	PSD
+Disease	stroke
+Gene	IL-6
+Gene	IL-8
+Disease	PSD
+Disease	dementia
+Gene	CRP
+Disease	dementia
+Disease	PSD
+Disease	dementia
+Disease	AD
+Disease	cerebral atrophy
+Disease	dementias
+Disease	cognitive dysfunction
+Disease	stroke
+Gene	HLA-E
+Gene	NKG2A
+Gene	CD94
+Gene	NKG2A
+Gene	CD94
+Gene	HLA-E
+Gene	NKG2A
+Gene	CD94
+Gene	HLA-E
+Gene	HLA-E
+Gene	NKG2A
+Gene	CD94
+Gene	NKG2A
+Gene	CD94
+Gene	HLA-E
+Gene	HIV-1 capsid
+Gene	NKG2A
+Gene	CD94
+Gene	HLA-C
+Gene	KIR2DL
+Gene	CD56
+Gene	CD56
+Gene	NKG2A
+Gene	CD94
+Gene	NKG2A
+Gene	CD94
+Gene	KIR2DL
+Gene	Protein Kinase R
+Disease	Rift Valley Fever
+Gene	SKP1-CUL1-F-box
+Gene	FBXW11-NSs
+Gene	protein kinase R
+Gene	PKR
+Gene	PKR
+Gene	NSs
+Gene	Non-structural s
+Disease	Rift Valley fever
+Gene	PKR
+Gene	NSs
+Gene	SKP1-CUL1-F-box
+Gene	FBXW11
+Gene	NSs
+Gene	FBXW11
+Gene	PKR
+Gene	FBXW11
+Gene	FBXW11-NSs
+Chemical	MLN4924
+Gene	NSs
+Gene	FBXW11
+Gene	PKR
+Gene	PKR
+Gene	NSs
+Gene	PKR
+Gene	PKR
+Gene	NSs
+Gene	PKR
+Gene	FBXW11-NSs
+Gene	FBXW11
+Gene	BTRC
+Gene	βTrCP
+Gene	Beta-transducin repeat containing protein
+Gene	βTrCP
+Gene	FBXW11
+Gene	PKR
+Gene	FBXW11
+Gene	FBXW11
+Gene	PKR
+Gene	NSs
